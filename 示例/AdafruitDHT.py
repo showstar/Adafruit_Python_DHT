@@ -1,5 +1,5 @@
-#!/usr/bin/python
-# Copyright (c) 2014 Adafruit Industries
+＃！/ usr / bin / python3
+＃版權所有（c）2014 Adafruit Industries
 # Author: Tony DiCola
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
