@@ -1,4 +1,4 @@
-＃！/ usr / bin / python3
+＃！/usr/bin/python
 ＃版權所有（c）2014 Adafruit Industries
 # Author: Tony DiCola
 
